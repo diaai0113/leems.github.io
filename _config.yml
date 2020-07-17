@@ -3,13 +3,10 @@
 
 # Site settings
 title: #Spectral
-description: |
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+description: 이민수
+owner: diaai0113 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: diaai113@gmail.com
 baseurl: "leems.github.io" # the subpath of your site, e.g. /blog
 url: "http://diaai0113.github.io" # the base hostname & protocol for your site
 social:
