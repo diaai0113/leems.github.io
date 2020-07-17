@@ -7,7 +7,7 @@ description: 이민수
 owner: diaai0113 # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
 email: diaai113@gmail.com
-baseurl: / # the subpath of your site, e.g. /blog
+baseurl: leems.github.io # the subpath of your site, e.g. /blog
 url: http://diaai0113.github.io # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
